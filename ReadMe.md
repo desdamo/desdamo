@@ -1,9 +1,14 @@
 # 💫About Me :
 🦾 Explorer les technologies du web est pour moi une réelle passion
+
 🧠 J'adore apprendre des nouvelles stacks
+
 👨🏼‍💻 J'aime rendre la technologie plus accessible
+
 🥷🏽 J'ai une passion pour les ninjas (faux j'aimais juste l'emoji)
+
 🧞‍♂️ J'aime le fait qu'un développeur soit comme le génie d'Aladdin ( un souhait client = une réalité)
+
 📐 l'UX/UI Design est pour moi une qualité essentielle d'un dev front-end (certifications en cours)
 
 ## 🌐Socials
